@@ -17,7 +17,7 @@ I'm a BCA student with a strong passion for solving complex logic-based problems
 
 ### 🛠️ Tech Stack
 
-**Languages & Backend**
+**Languages**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
