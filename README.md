@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Divya Joshi </h1>
-<h3 align="center">BCA Student • Aspiring Developer & Tech Enthusiast | </h3>
+<h3 align="center">BCA Student • Aspiring Developer | </h3>
 
 
 
