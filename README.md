@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Divya Joshi 👋</h1>
+<h3 align="center">BCA Student • Aspiring Developer & Tech Enthusiast | Code. Create. Grow. 🚀</h3>
 
-<!--
-**DivyaJoshi-07/DivyaJoshi-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### ⚡ Quick Facts
+- 🎓 **Currently:** BCA Student, AMRAPALI  University, Haldwani
+- 💻 **Focus:** Software Engineering, Data Structures, & Database Systems
+- 📍 **Based in:** Haldwani, Uttarakhand
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🌸 About Me
+I'm a BCA student with a strong passion for solving complex logic-based problems, building efficient applications, and continuously mastering new technologies. 
+
+ I'm highly collaborative, driven by continuous growth, and actively seeking new opportunities to build and scale software.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Backend**
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+</p>
+
+**Web & Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
