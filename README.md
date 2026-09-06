@@ -2,7 +2,7 @@
 <h3 align="center">BCA Student • Aspiring Developer & Tech Enthusiast | </h3>
 
 
-### ⚡ Quick Facts
+
 - 🎓 **Currently:** BCA Student, AMRAPALI  University, Haldwani
 - 💻 **Focus:** Software Engineering, Data Structures, & Database Systems
 - 📍 **Based in:** Haldwani, Uttarakhand
