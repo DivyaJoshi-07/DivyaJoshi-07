@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Divya Joshi 👋</h1>
-<h3 align="center">BCA Student • Aspiring Developer & Tech Enthusiast | Code. Create. Grow. 🚀</h3>
+<h1 align="center">Hi there, I'm Divya Joshi </h1>
+<h3 align="center">BCA Student • Aspiring Developer & Tech Enthusiast | </h3>
 
 
 ### ⚡ Quick Facts
@@ -21,9 +21,7 @@ I'm a BCA student with a strong passion for solving complex logic-based problems
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-</p>
+  
 
 **Web & Databases**
 <p align="left">
